@@ -1,3 +1,4 @@
 # password-manager-literature
 
-https://www.cs.ox.ac.uk/files/6487/pwvault.pdf
+* (On The Security of Password Manager Database Formats)[
+https://www.cs.ox.ac.uk/files/6487/pwvault.pdf]
